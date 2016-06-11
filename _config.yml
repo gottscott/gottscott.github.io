@@ -1,0 +1,15 @@
+# Site settings
+title: William Seviour
+description: > # this means to ignore newlines until "baseurl:"
+  William Seviour's homepage
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://wseviour.github.io" # the base hostname & protocol for your site
+twitter_username: WillSeviour
+github_username:  wseviour
+markdown: kramdown
+highlighter: rouge
+gems: ['jekyll/scholar']
+
+# Build settings
+exclude: ['_drafts', 'convert_notebook.sh', 'nbconvert-jekyll-post.tpl', 'nbconvert_utils.py', 'nbconvert_config.py', 'readings', 'Makefile']
+include: ['readings.pdf']
