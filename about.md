@@ -3,9 +3,8 @@ layout: page
 permalink: /index
 ---
 
-<img src="will.jpg" width="280" style="float:right; margin: 1em 0 4em 2em;"
-title="The interface of the cryosphere, atmosphere, hydrosphere (and biosphere)
-on Lake Superior."/>
+<img src="anna.jpg" width="280" style="float:right; margin: 1em 0 4em 2em;"
+title="This is what I look like irl."/>
 
 Hi, I'm Anna. I'm a graduate student in the [Atmosphere and Ocean Dynamics
 and Transport Group](http://sites.krieger.jhu.edu/waugh/) of the [Department of
