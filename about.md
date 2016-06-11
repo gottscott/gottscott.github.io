@@ -16,7 +16,7 @@ I'm interested in climate dynamics and understanding the how and why of what goe
 
 I'm also an advocate for urbanism, sustainability, and open source software practices. 
 
-[You can view my CV here.](https://docs.google.com/document/d/1FemGjRtLl9aGJwPRqmXSjJoIl67tkONhDSKprFpBCLo/pub)
+%[You can view my CV here.](https://docs.google.com/document/d/1FemGjRtLl9aGJwPRqmXSjJoIl67tkONhDSKprFpBCLo/pub)
 
 ## Contact details:
 
