@@ -1,11 +1,11 @@
 # Site settings
-title: William Seviour
+title: Anna Scott
 description: > # this means to ignore newlines until "baseurl:"
-  William Seviour's homepage
+  Anna Scott's homepage
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://wseviour.github.io" # the base hostname & protocol for your site
-twitter_username: WillSeviour
-github_username:  wseviour
+twitter_username: AnnaUnderTheSun
+github_username:  gottscott
 markdown: kramdown
 highlighter: rouge
 gems: ['jekyll/scholar']
