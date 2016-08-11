@@ -3,7 +3,7 @@ layout: page
 permalink: /index
 ---
 
-<img src="anna.jpg" width="280" style="float:right; margin: 1em 0 4em 2em;"
+<img src="Anna.jpg" width="280" style="float:right; margin: 1em 0 4em 2em;"
 title="This is what I look like irl."/>
 
 Hi, I'm Anna. I'm a graduate student in the [Atmosphere and Ocean Dynamics
