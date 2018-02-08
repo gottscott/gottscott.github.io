@@ -9,7 +9,7 @@ title="This is what I look like irl."/>
 Hi, I'm Anna. I'm a graduate student in the [Atmosphere and Ocean Dynamics
 and Transport Group](http://sites.krieger.jhu.edu/waugh/) of the [Department of
 Earth and Planetary Sciences](http://eps.jhu.edu/) at [Johns Hopkins
-University](http://jhu.edu/).
+University](http://jhu.edu/). I also run [Baltimore Open Air](http://baltimoreopenair.github.io), an urban monitoring network measuring air quality in Baltimore, Maryland. 
 
 I'm interested in climate dynamics and understanding the how and why of what goes on in our atmosphere. My thesis research looks at quantifying urban temperature variability and heat waves, but I've been known to dabble in projects on regional hydrology, the climate impacts of aerosols, and North African precipitation.
 
