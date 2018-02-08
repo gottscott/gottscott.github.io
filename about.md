@@ -15,6 +15,16 @@ I'm interested in climate dynamics and understanding the how and why of what goe
 
 I'm also an advocate for urbanism, sustainability, and open source software practices. 
 
+## Recent Press
+You can read about my Nairobi temperature paper:
+-Nairobi's [The Star](https://www.the-star.co.ke/news/2018/01/13/i-feel-really-scared-nairobi-slum-dwellers-say-as-heat-rises_c1697526)
+-[NIH](https://www.niehs.nih.gov/research/programs/geh/geh_newsletter/2017/12/spotlight/new_microclimate_data_technology_points_to_increased_urban_temperatures.cfm)
+
+or Baltimore Open Air in: 
+-[The Baltimore Sun](http://www.baltimoresun.com/news/maryland/environment/bs-md-air-monitor-network-20170731-story.html) 
+-[JHU's the hub](https://hub.jhu.edu/2017/06/27/big-data-air-quality-sensor-climate-science/) 
+-[Technical.ly](https://technical.ly/baltimore/2016/12/19/air-quality-sensors-epa/)
+
 ## Contact details:
 
 <annascott@jhu.edu>
