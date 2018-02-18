@@ -31,7 +31,7 @@ You can read some of my recent science writing on the [Union of Concerned Scient
 - [Hosting a Holiday Air and Water Quality Party](https://blog.ucsusa.org/science-blogger/our-science-for-public-good-project-hosting-a-holiday-air-and-water-quality-party) 
 - [One Simple Trick to Reduce Your Carbon Footprint](https://blog.ucsusa.org/science-blogger/one-simple-trick-to-reduce-your-carbon-footprint)
 
-I've also writen for the [Planetary Society](www.planetary.org) blog: you can find my writing under [http://www.planetary.org/connect/our-experts/profiles/anna-scott.html]. 
+I've also writen for the [Planetary Society](www.planetary.org) blog: you can find my writing [here](http://www.planetary.org/connect/our-experts/profiles/anna-scott.html). 
 
 ## Contact details:
 
