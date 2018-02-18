@@ -27,7 +27,7 @@ or [Baltimore Open Air](baltimoreopenair.github.io) in:
 - [Technical.ly](https://technical.ly/baltimore/2016/12/19/air-quality-sensors-epa/)
 
 ## Science Writing 
-You can read some of my recent science writing on the (Union of Concerned Scientists blog)[https://blog.ucsusa.org/]
+You can read some of my recent science writing on the [Union of Concerned Scientists blog](https://blog.ucsusa.org/):
 - [Hosting a Holiday Air and Water Quality Party](https://blog.ucsusa.org/science-blogger/our-science-for-public-good-project-hosting-a-holiday-air-and-water-quality-party) 
 - [One Simple Trick to Reduce Your Carbon Footprint](https://blog.ucsusa.org/science-blogger/one-simple-trick-to-reduce-your-carbon-footprint)
 
