@@ -23,7 +23,7 @@ You can read about Troposphere Monitoring:
 - [Forbes](https://www.forbes.com/sites/annefield/2018/06/27/techstars-launches-its-first-impact-accelerator-class/) 
 
 Why am I flying less? 
-- Wired (https://www.wired.com/story/climate-scientists-take-the-train/) 
+- [Wired](https://www.wired.com/story/climate-scientists-take-the-train/) 
 
 You can read about my paper on [temperature in Nairobi](journals.plos.org/plosone/article?id=10.1371/journal.pone.0187300) :
 - Nairobi's [The Star](https://www.the-star.co.ke/news/2018/01/13/i-feel-really-scared-nairobi-slum-dwellers-say-as-heat-rises_c1697526)
