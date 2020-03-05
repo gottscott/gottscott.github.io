@@ -31,6 +31,7 @@ You can read about my paper on [temperature in Nairobi](journals.plos.org/ploson
 - [NPR's Goats and Soda](https://www.npr.org/sections/goatsandsoda/2017/11/20/564314257/how-much-hotter-is-it-in-the-slums)
 
 or [Baltimore Open Air](baltimoreopenair.github.io) in: 
+- [PC Magazine](https://www.pcmag.com/article/360317/citizen-science-do-try-this-at-home)
 - [Public Sector Digest](https://publicsectordigest.com/issue/data-driven-decision-making)
 - [The Baltimore Sun](http://www.baltimoresun.com/news/maryland/environment/bs-md-air-monitor-network-20170731-story.html) 
 - [JHU's the hub](https://hub.jhu.edu/2017/06/27/big-data-air-quality-sensor-climate-science/) 
